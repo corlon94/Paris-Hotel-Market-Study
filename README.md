@@ -11,11 +11,7 @@ Analyzed the Paris Hotel Market to identify the cause of decreased occupancy wit
 - Market Breakdown
 
 
-![Occ ADR Graph](Occ_ADR_Percent_class.png) 
-
-![Occ ADR Graph](Occ_ADR_weekend.png) 
-
-![Occ ADR Graph](Supply_Demand.png) 
+![Occ ADR Graph](College_Dashboard.pdf) 
 
 
 ### Summary of Insights:
