@@ -3,15 +3,15 @@
 ## Case Study: Paris Hotel Market Study (2023)
 Analyzed the Paris Hotel Market to identify the cause of decreased occupancy with increased room supply. 
 
+![College Dashboard](College_Dashboard_01.png) 
+
+
 ### North Star Metrics & Dimensions 
 - Average daily rate (ADR)
 - Revenue per available room (RevPAR)
 - Actual Occupancy
 - Group & Transient Demand
 - Market Breakdown
-
-
-![College Dashboard](College_Dashboard_01.png) 
 
 
 ### Summary of Insights:
